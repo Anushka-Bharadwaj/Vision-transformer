@@ -1,0 +1,60 @@
+TRAINING METRICS (Final Epoch):
+=============================
+accuracy_score: 0.2703
+top_1_accuracy: 0.2703
+top_3_accuracy: 0.7919
+precision_micro: 0.2703
+precision_macro: 0.2551
+precision_weighted: 0.2421
+recall_micro: 0.2703
+recall_macro: 0.2526
+recall_weighted: 0.2703
+f1_micro: 0.2703
+f1_macro: 0.1403
+f1_weighted: 0.1472
+auc_micro: 0.5118
+auc_macro: 0.4986
+auc_weighted: 0.4969
+loss: 1.4713
+
+VALIDATION METRICS (Best Epoch):
+==============================
+accuracy_score: 0.2353
+top_1_accuracy: 0.2353
+top_3_accuracy: 0.7059
+precision_micro: 0.2353
+precision_macro: 0.0588
+precision_weighted: 0.0554
+recall_micro: 0.2353
+recall_macro: 0.2500
+recall_weighted: 0.2353
+f1_micro: 0.2353
+f1_macro: 0.0952
+f1_weighted: 0.0896
+auc_micro: 0.4902
+auc_macro: 0.5000
+auc_weighted: 0.5000
+loss: 1.5353
+
+TEST METRICS:
+=============
+accuracy_score: 0.2083
+top_1_accuracy: 0.2083
+top_3_accuracy: 0.8542
+precision_micro: 0.2083
+precision_macro: 0.0521
+precision_weighted: 0.0434
+recall_micro: 0.2083
+recall_macro: 0.2500
+recall_weighted: 0.2083
+f1_micro: 0.2083
+f1_macro: 0.0862
+f1_weighted: 0.0718
+auc_micro: 0.4942
+auc_macro: 0.5417
+auc_weighted: 0.5365
+
+TRAINING TIME:
+=============
+Total training time: 0:07:22
+Average time per epoch: 442.75 seconds

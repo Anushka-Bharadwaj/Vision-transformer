@@ -1,0 +1,45 @@
+Epoch wise Training and Validation Metrics
+Epoch 1:
+  Train Loss: 1.5101
+  Train Top-1: 23.24%
+  Train Top-3: 78.65%
+  Val Loss: 1.5353
+  Val Top-1: 23.53%
+  Val Top-3: 70.59%
+
+Epoch 2:
+  Train Loss: 1.5032
+  Train Top-1: 24.32%
+  Train Top-3: 78.65%
+  Val Loss: 1.5353
+  Val Top-1: 23.53%
+  Val Top-3: 70.59%
+
+Epoch 3:
+  Train Loss: 1.4956
+  Train Top-1: 24.32%
+  Train Top-3: 78.38%
+  Val Loss: 1.5351
+  Val Top-1: 23.53%
+  Val Top-3: 70.59%
+
+Epoch 4:
+  Train Loss: 1.4783
+  Train Top-1: 26.49%
+  Train Top-3: 77.30%
+  Val Loss: 1.4989
+  Val Top-1: 25.88%
+  Val Top-3: 70.59%
+
+Epoch 5:
+  Train Loss: 1.4713
+  Train Top-1: 27.03%
+  Train Top-3: 79.19%
+  Val Loss: 1.5299
+  Val Top-1: 23.53%
+  Val Top-3: 75.29%
+
+Final Test Loss: 1.4937
+Test Top-1: 20.83%
+Test Top-3: 85.42%
+Total training time: 0:07:22

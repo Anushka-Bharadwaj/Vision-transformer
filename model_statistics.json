@@ -1,0 +1,7 @@
+{
+    "flops": "42.14 MMac",
+    "ptflops_params": "183.18 k",
+    "total_params": 183181,
+    "estimated_memory_usage_bytes": 732724,
+    "avg_inference_time_seconds": 0.006325626373291015
+}
