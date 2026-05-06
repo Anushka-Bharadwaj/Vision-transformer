@@ -46,3 +46,7 @@ Thumbs.db
 # JSON reports
 *.json
 *.txt
+
+# Ignore large model weights
+*.pth
+
